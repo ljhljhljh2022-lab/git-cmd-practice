@@ -102,3 +102,6 @@ git push origin main
 git revert --no-commit HEAD~3..HEAD
 git commit -m "Revert changes from last 3 commits"
 ```
+
+## 최종 수정일
+2025-11-20
