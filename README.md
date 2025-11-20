@@ -1,8 +1,8 @@
 # GIT 명령어 실습
 
-- ADD
-- COMMIT
-- PUSH
+- (완료) ADD
+- (완료) COMMIT
+- (완료) PUSH
 - MERGE
 - RESET
 - TAG
